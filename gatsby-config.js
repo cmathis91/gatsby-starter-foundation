@@ -102,7 +102,7 @@ module.exports = {
         short_name: `Colton Mathis`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#1F2833`,
+        theme_color: `#c5c6c7`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },
